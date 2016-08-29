@@ -4,9 +4,9 @@
 permalink:        pretty
 
 # Setup
-title:            Stella R. Student
+title:            Daniel Lathrop
 tagline:          'Your tagline'
-description:      A student journalist at the University of Iowa with a bright future ahead of her in mass communication.
+description:      A professor at the University of Iowa with a bright future ahead of him in mass communication.
 url:              http://lathropd.github.io
 baseurl:          /profile-hyde/
 shortbaseurl:     /profile-hyde
@@ -15,7 +15,7 @@ colorscheme:      ''
 
 
 author:
-  name:           'Stella Student'
+  name:           'Daniel Lathrop'
   url:            ''
   
 paginate:         5
