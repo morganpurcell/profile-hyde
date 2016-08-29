@@ -4,9 +4,9 @@
 permalink:        pretty
 
 # Setup
-title:            Daniel Lathrop
+title:            Morgan Purcell 
 tagline:          'Your tagline'
-description:      A professor at the University of Iowa with a bright future ahead of him in mass communication.
+description:     A student at the University of Iowa
 url:              http://lathropd.github.io
 baseurl:          /profile-hyde/
 shortbaseurl:     /profile-hyde
@@ -15,7 +15,7 @@ colorscheme:      ''
 
 
 author:
-  name:           'Daniel Lathrop'
+  name:           'Morgan Purcell'
   url:            ''
   
 paginate:         5
