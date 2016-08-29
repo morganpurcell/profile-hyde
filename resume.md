@@ -30,6 +30,7 @@ Very brief description here. No bullets.
 
 
 ### College Activities
+
 #### Sigma Delta Chi
 Brief explanation
 
