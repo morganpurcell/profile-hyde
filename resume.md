@@ -9,12 +9,14 @@ title: Resume
 
 #### The Daily Iowan
 ##### Copy Desk Chief *Jan. - May 2016*
+
 Brief description here.    
 
 * list two or three
 * important achievements
 
 ##### Copy Editor *Sept. 2014 - Dec. 2015*
+
 Brief description here.    
 
 * list two or three
@@ -37,6 +39,7 @@ Brief explanation
 
 
 #### Iowa Raptor Project
+
 Something about birds.
 
 ### Skills
@@ -50,4 +53,5 @@ Something about birds.
 
 ### Education
 #### University of Iowa
+
 Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
