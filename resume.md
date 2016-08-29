@@ -8,15 +8,14 @@ title: Resume
 ### Experience
 
 #### The Daily Iowan
-##### Copy Desk Chief *Jan. - May 2016*
 
+##### Copy Desk Chief *Jan. - May 2016*
 Brief description here.    
 
 * list two or three
 * important achievements
 
 ##### Copy Editor *Sept. 2014 - Dec. 2015*
-
 Brief description here.    
 
 * list two or three
@@ -25,6 +24,7 @@ Brief description here.
 
 
 #### University of Iowa Hospitals and Clinics
+
 ##### Food service supervisor *Jan. - May 2016*
 Very brief description here. No bullets.  
 
@@ -43,6 +43,7 @@ Brief explanation
 Something about birds.
 
 ### Skills
+
 #### Video production
 * FinalCut X
 * Adobe Premiere
@@ -52,6 +53,7 @@ Something about birds.
 * subskills/software
 
 ### Education
+
 #### University of Iowa
 
 Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
